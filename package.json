@@ -1,0 +1,19 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "calc": "node calc.js"
+  },
+  "author": "bandvov",
+  "license": "ISC",
+  "dependencies": {
+    "lint": "^0.7.0",
+    "node": "^13.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
