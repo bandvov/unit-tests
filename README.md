@@ -1,5 +1,7 @@
 # unit-tests
-start test with npm run start \n algotaska and validation functions are in operations.js
+start test with npm run start 
+
+algotaska and validation functions are in operations.js
 
 to start findData use command node findData 
 
